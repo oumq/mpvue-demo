@@ -1,6 +1,7 @@
 # mpvue-demo
 
 > A Mpvue project
+![小程序码](https://github.com/oumq/mpvue-demo/blob/master/static/images/gh_b01eee3072ba_258.jpg)
 
 ## Build Setup
 
